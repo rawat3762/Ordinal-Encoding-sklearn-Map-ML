@@ -1,7 +1,7 @@
 # Ordinal-Encoding-sklearn-Map-ML
 
 ## 📌 Description
-A hands-on Python project demonstrating One-Hot Encoding to preprocess categorical data and prepare clean datasets for machine learning models.
+A hands-on Python project demonstrating Ordinal Encoding to convert categorical data into ordered numerical values for machine learning models using Scikit-learn and Python map() function..
 
 ---
 
